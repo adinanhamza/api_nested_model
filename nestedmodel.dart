@@ -1,5 +1,4 @@
 
-  
 class Post{
   String id;
 String title;
